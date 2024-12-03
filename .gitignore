@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 module05/week02_softmax_regression/data/creditcard.csv
+module05/week02_softmax_regression/data/Twitter_Data.csv
 
