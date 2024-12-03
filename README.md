@@ -9,3 +9,4 @@ This repository is used to do exercises for AOI2024
 
 - `Module 05`
   - `week01_logistic_regression`
+  - `week02_softmax_regression`
