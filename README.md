@@ -11,3 +11,4 @@ This repository is used to do exercises for AOI2024
   - `week01_logistic_regression`
   - `week02_softmax_regression`
   - `week03_multilayer_perceptron`
+  - `week04_optimizers_for_neural_networks`
