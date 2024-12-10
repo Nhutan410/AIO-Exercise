@@ -1,16 +1,19 @@
-# AIO2024_Exercises
-This repository is used to do exercises for AOI2024
+# AIO2024 Exercises
 
-## Structure
-- `Module 04`
-  - `Week 01 - Linear Regression`
-  - `Week 02 - Linear Regression Vectorization`
-  - `Week 03 - Genetic Algorithm`
+This repository contains all the exercises for the AIO2024 course.
 
-- `Module 05`
-  - `week01_logistic_regression`
-  - `week02_softmax_regression`
-  - `week03_multilayer_perceptron`
-  - `week04_optimizers_for_neural_networks`
+## Repository Structure
 
-- `Module 06`
+### Module 04: Linear Models
+- **Week 01**: Linear Regression
+- **Week 02**: Linear Regression Vectorization
+- **Week 03**: Genetic Algorithm
+
+### Module 05: Logistic and Neural Networks
+- **Week 01**: Logistic Regression
+- **Week 02**: Softmax Regression
+- **Week 03**: Multilayer Perceptron (MLP)
+- **Week 04**: Optimizers for Neural Networks
+
+### Module 06:
+
