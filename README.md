@@ -17,4 +17,5 @@ This repository contains all the exercises for the AIO2024 course.
 
 ### Module 06:
 - **Week 01**: Convolutional Neural Network (CNN)
+- **Week 02**: Advanced CNN
 
