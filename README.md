@@ -5,7 +5,7 @@ This repository contains all the exercises for the AIO2024 course.
 ## Repository Structure
 
 ### Module 04: Linear Models
-- **Week 01**: Linear Regression
+- [**Week 01**: Linear Regression](https://github.com/Nhutan410/AIO-Exercise/tree/master/module04/week01_linear_regression)
 - **Week 02**: Linear Regression Vectorization
 - **Week 03**: Genetic Algorithm
 
