@@ -18,4 +18,4 @@ This repository contains all the exercises for the AIO2024 course.
 ### Module 06:
 - **Week 01**: [Convolutional Neural Network (CNN)](https://github.com/Nhutan410/AIO-Exercise/tree/master/module06/week01_CNN)
 - **Week 02**: [Advanced CNN](https://github.com/Nhutan410/AIO-Exercise/tree/master/module06/week02_advanced_CNN)
-
+- **Week 03**: [RNN - LSTM - GRU](https://github.com/Nhutan410/AIO-Exercise/tree/master/module06/week03_RNN_LSTM_GRU)
